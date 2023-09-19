@@ -21,7 +21,7 @@
 * React.js
 * JavaScript
 * CSS
-* Node.js (Express)
+* Node.js
 
 
 <!--
