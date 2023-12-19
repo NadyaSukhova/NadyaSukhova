@@ -19,6 +19,7 @@
 * Ruby
 * Python
 * React.js
+* Vue.js
 * JavaScript
 * CSS
 * Node.js
