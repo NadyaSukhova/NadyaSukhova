@@ -21,6 +21,7 @@
 * React.js
 * Vue.js
 * JavaScript
+* TypeScript
 * CSS
 * Node.js
 
