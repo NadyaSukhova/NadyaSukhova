@@ -5,7 +5,7 @@
 
 #### Here are some things to get to know:
 - 🌱 I’m currently learning frontend development
-- 💬 Ask me about JS, ReactJS, HTML, CSS
+- 💬 Ask me about TS, JS, Vue, ReactJS, HTML, CSS
 - ⚡ Nice fact: Bunnies can be veeery cute :З
 ```
   ====================
