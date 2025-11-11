@@ -1,11 +1,13 @@
 ### Hi there 👋
-## My name is Nadya I have 1 year, 7 months experience in backend development and I am trying myself in frontend rigth now!✨
+## My name is Nadya I have 1 year, 7 months experience in backend development, 11 months in Web-development and I am trying myself in frontend rigth now!✨
 
 <img src="./photo.jpeg" width="400">
 
 #### Here are some things to get to know:
-- 🌱 I’m currently learning frontend development
-- 💬 Ask me about TS, JS, Vue, ReactJS, HTML, CSS
+- 🌱 I’m currently learning frontend development, mostly on React with styled-components
+- 🤔 I’m looking for help with finding my first frontend job or internship
+- 💬 Ask me about TS, JS, ReactJS, HTML, CSS, styled-components, Antd, Angular, Vue
+- 📫 How to reach me: https://t.me/violets_are_blur
 - ⚡ Nice fact: Bunnies can be veeery cute :З
 ```
   ====================
@@ -16,13 +18,16 @@
      /   づ
 ```
 ##### Expierenced in:
-* Ruby
-* Python
 * React.js
+* CSS
+* HTML
+* SASS
+* Angular
 * Vue.js
 * JavaScript
 * TypeScript
-* CSS
+* Ruby
+* Python
 * Node.js
 
 
