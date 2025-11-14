@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Nadya I have 1 year 7 months experience in backend development, 11 months in Web-development and 1 year 6 months experiens with folowwing stack: JSON, HTML, CSS, REST, SQL, REACT, Redux. Right now I am trying myself in frontend!✨
+## My name is Nadya I have 1 year 7 months experience in backend development, 11 months in Web-development and 1 year 6 months experiens with folowing stack: React, Redux, JSON, HTML, CSS, REST, SQL. Right now I am trying myself in frontend!✨
 
 <img src="./photo.jpeg" width="400">
 
